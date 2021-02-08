@@ -22,7 +22,6 @@
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-streaming-scala_2.11</artifactId>
             <version>${flink.version}</version>
-            <scope>provided</scope>
         </dependency>
     </dependencies>
     <!--插件:主要用于打包和编译-->
